@@ -1,13 +1,19 @@
-## Welcome to GitHub Pages
+## Elm Street Garage Application
 
-You can use the [editor on GitHub](https://github.com/rjasiak/Elm-Street-Garage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/rjasiak/Elm-Street-Garage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-### Markdown
+### How it Works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Create an account with an email address and password
+2. Login
+3. Hit "Change Spot"
+4. Select a parking spot and floor
+5. Hit "Save Change"
+6. Any changes you made will be visible on other's mobile iOS devices that are logged into the same account.
 
+<!-- 
 ```markdown
 Syntax highlighted code block
 
@@ -25,8 +31,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ -->
+<!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
@@ -35,3 +41,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
+ 
+For any inquiries, email elmstreetgarageapp@gmail.com
